@@ -1,0 +1,17 @@
+.sign {
+  margin-top: 15px;
+  width: 150px;
+  height: 100px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background: black;
+  padding: 5px;
+  font-size: x-large;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+
+ /*# sourceMappingURL= walk.css.map */
